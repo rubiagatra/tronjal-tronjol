@@ -9,3 +9,6 @@ Dapil: Bangkalan
 
 Nama: Iman
 Dapil: Jombang
+
+Nama: Tegar
+Dapil: Sidoarjo
