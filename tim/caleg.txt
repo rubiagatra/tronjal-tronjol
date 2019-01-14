@@ -3,3 +3,6 @@ Dapil: Konohagakure
 
 Nama: Timur
 Dapil: Sumenep
+
+Nama: Barat
+Dapil: Bangkalan
