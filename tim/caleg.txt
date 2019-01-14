@@ -6,3 +6,6 @@ Dapil: Sumenep
 
 Nama: Barat
 Dapil: Bangkalan
+
+Nama: Tegar
+Dapil: Sidoarjo
